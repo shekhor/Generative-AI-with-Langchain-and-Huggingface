@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "Path": "C:\\Users\\schanda\\AppData\\Local\\miniconda3;C:\\Users\\schanda\\AppData\\Local\\miniconda3\\Scripts;C:\\Users\\schanda\\AppData\\Local\\miniconda3\\Library\\bin;C:\\Users\\schanda\\AppData\\Local\\miniconda3\\condabin;${env:Path}"
+  }
+}
