@@ -4,4 +4,5 @@ numpy
 scikit-learn 
 tensorboard
 matplotlib
+seaborn
 streamlit
